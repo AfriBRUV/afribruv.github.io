@@ -1,12 +1,13 @@
 <a name="readme-top"></a>
 
-<!--
-![Mar-RIP](/assets/img/afribruv.png)
--->
 
+![Mar-RIP](/assets/img/afribruv_250.png)
+
+<!--
 <a href="https://aimeos.org/">
     <img src="/assets/img/afribruv.png" alt="Logo" title="afribruv" align="center" height="300" />
 </a>
+-->
 
 <div align="center">
 <a href="https://nrf-saiab-marip.github.io/">Home</a> - 
