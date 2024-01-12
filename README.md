@@ -5,7 +5,7 @@
 -->
 
 <a href="https://aimeos.org/">
-    <img src="/assets/img/afribruv.png" alt="Logo" title="afribruv" align="center" height="100" />
+    <img src="/assets/img/afribruv.png" alt="Logo" title="afribruv" align="center" height="300" />
 </a>
 
 <div align="center">
