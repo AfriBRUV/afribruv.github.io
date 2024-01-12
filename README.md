@@ -1,6 +1,8 @@
 <a name="readme-top"></a>
 
+<!--
 ![Mar-RIP](/assets/img/afribruv.png)
+-->
 
 <a href="https://aimeos.org/">
     <img src="/assets/img/afribruv.png" alt="Logo" title="afribruv" align="center" height="400" />
