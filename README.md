@@ -38,8 +38,18 @@ The Blue Economy requires robust verifiable data of the subtidal environment to 
 - [Document2](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
 - [Document3](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
 
-| - | - |
-| **Text**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum | **Text** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum |
+<div align="center">
+    <table >
+     <tr>
+        <td><b>Latest Tweets</b></td>
+        <td><b>daily.dev</b></td>
+     </tr>
+     <tr>
+       <td><a href="https://twitter.com/sunilsapkota09"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=sunilsapkota09" alt="sunil sapkota twitter" > </img></a></td>
+        <td> <a href="https://app.daily.dev/sunil-9"><img src="https://api.daily.dev/devcards/426421ecec8c4819927d5698b72edced.png?r=5tr" width="400" alt="sunil sapkota's Dev Card"/></a></td>
+     </tr>
+    </table>
+    </div>
 
 
 ## Functionality
