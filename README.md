@@ -51,6 +51,12 @@ The Blue Economy requires robust verifiable data of the subtidal environment to 
     </table>
     </div>
 
+<div align="center">
+
+COLUMN&nbsp;&nbsp;&nbsp;1 | </br>COLUMN 2 | </br></br>COLUMN 3
+:--- | :---: | ---:
+</br></br>left | center | </br></br>right
+</div>
 
 ## Functionality
 Largest and most comprehensive underwater visual platform in Africa
