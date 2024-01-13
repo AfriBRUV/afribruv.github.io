@@ -38,7 +38,7 @@ The Blue Economy requires robust verifiable data of the subtidal environment to 
 - [Document2](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
 - [Document3](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
 
-<div align="center">
+<div align="right">
     <table >
      <tr>
         <td><b>Latest Tweets</b></td>
