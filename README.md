@@ -49,7 +49,15 @@ The Blue Economy requires robust verifiable data of the subtidal environment to 
     </table>
     </div>
 
+<div align="right">
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+</div>
 
 ## Functionality
 Largest and most comprehensive underwater visual platform in Africa
