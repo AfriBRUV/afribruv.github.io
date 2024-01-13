@@ -27,44 +27,7 @@
 7. [Funders](https://nrf-saiab-marip.github.io/#funders)
 
 ***
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        .sidebar {
-            width: 200px;
-            height: 100%;
-            position: fixed;
-            z-index: 1;
-            top: 0;
-            right: 0;
-            background-color: #111;
-            overflow-x: hidden;
-            padding-top: 20px;
-        }
-        .sidebar a {
-            padding: 6px 8px 6px 16px;
-            text-decoration: none;
-            font-size: 20px;
-            color: #818181;
-            display: block;
-        }
-        .sidebar a:hover {
-            color: #f1f1f1;
-        }
-    </style>
-</head>
-<body>
-    <div class="sidebar">
-        <a href="#content1">Content 1</a>
-        <a href="#content2">Content 2</a>
-        <a href="#content3">Content 3</a>
-    </div>
-    <div style="margin-right:200px;">
-        <!-- Your page content goes here -->
-    </div>
-</body>
-</html>
+
 
 
 ## Socio-economic implications
