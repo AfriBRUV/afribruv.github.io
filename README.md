@@ -28,8 +28,6 @@
 
 ***
 
-![AfriBRUV](example.svg)
-
 ## Socio-economic implications
 The Blue Economy requires robust verifiable data of the subtidal environment to ensure sustainable development of the marine fisheries, oil and gas, and transport and mining sectors.
 
