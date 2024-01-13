@@ -1,4 +1,5 @@
 <svg>
+    <html>
 <head>
     <style>
         .sidebar {
@@ -34,4 +35,5 @@
         <!-- Your page content goes here -->
     </div>
 </body>
+    </html>
 </svg>
