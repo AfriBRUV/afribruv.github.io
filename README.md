@@ -17,8 +17,6 @@
 <a href="https://github.com/NRF-SAIAB-MARIP/NRF-SAIAB-MARIP.github.io/blob/8e2926f930f74cb2c400718b65b3329b13eaf4e5/README.md/">Github</a>
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Navigation
 1. [Socio-economic implications](https://nrf-saiab-marip.github.io/#socio-economic-implications)
 2. [Functionality](https://nrf-saiab-marip.github.io/#functionality)
