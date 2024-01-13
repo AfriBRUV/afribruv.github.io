@@ -39,7 +39,7 @@ The Blue Economy requires robust verifiable data of the subtidal environment to 
 - [Document3](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
 
 <div align="right">
-    <table >
+    <table>
      <tr>
         <td><b>Latest Tweets</b></td>
         <td><b>daily.dev</b></td>
@@ -51,12 +51,7 @@ The Blue Economy requires robust verifiable data of the subtidal environment to 
     </table>
     </div>
 
-<div align="center">
 
-COLUMN&nbsp;&nbsp;&nbsp;1 | </br>COLUMN 2 | </br></br>COLUMN 3
-:--- | :---: | ---:
-</br></br>left | center | </br></br>right
-</div>
 
 ## Functionality
 Largest and most comprehensive underwater visual platform in Africa
