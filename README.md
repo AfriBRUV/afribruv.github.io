@@ -28,7 +28,7 @@
 
 ***
 
-<div style="text-align: center"> <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrDvhEAeNuuxH4-etqMSVqCf4PES480ynvWEyr986CPv_jZwXol3kK3MGrKJMRQgwK5lZf-tjjR7SK/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" width="100%" height="500"></iframe> </div>
+<div style="text-align: center"> <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrDvhEAeNuuxH4-etqMSVqCf4PES480ynvWEyr986CPv_jZwXol3kK3MGrKJMRQgwK5lZf-tjjR7SK/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0.5" width="100%" height="100%"></iframe> </div>
 
 ## Socio-economic implications
 The Blue Economy requires robust verifiable data of the subtidal environment to ensure sustainable development of the marine fisheries, oil and gas, and transport and mining sectors.
