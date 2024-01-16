@@ -53,9 +53,6 @@ Innovation and development of new applications and equipment
     
 - [Document1](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Transformation & Capacity Development
 Extensive postgraduate student use of resources
 Developing a transformed cohort of next-generation marine technicians
