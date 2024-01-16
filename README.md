@@ -124,6 +124,15 @@ DSI, NRF-SAIAB, SMCRI
 
 ---
 
+<div align="center">
+<a [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fafribruv.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+views&edge_flat=false)](https://hits.seeyoufarm.com)
+</a> - 
+<a [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) </a> - 
+<a href="https://nrf-saiab-marip.github.io/Data-management/">Data storage</a> - 
+<a href="https://nrf-saiab-marip.github.io/Data-management/">Data analysis</a> - 
+<a href="https://github.com/NRF-SAIAB-MARIP/NRF-SAIAB-MARIP.github.io/blob/8e2926f930f74cb2c400718b65b3329b13eaf4e5/README.md/">Github</a>
+</div>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fafribruv.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
