@@ -18,7 +18,7 @@
 </div>
 
 ## Navigation
-<img align="right" alt="GIF" src="/assets/img/afribruv_250.png" width="500" height="320" />
+<img align="right" alt="GIF" src="/assets/img/Developers.png" width="200"/>
 
 
 1. [Socio-economic implications](https://nrf-saiab-marip.github.io/#socio-economic-implications)
