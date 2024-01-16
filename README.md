@@ -19,17 +19,6 @@
 
 ## Navigation
 <img align="right" alt="GIF" src="/assets/img/developers.png" width="250"/>
-<p align="right">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fafribruv.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+views&edge_flat=false" alt="Hits">
-  </a>
-</p>
-<p align="right">
-  <a href="https://www.repostatus.org/#active">
-    <img src="https://www.repostatus.org/badges/latest/active.svg" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed.">
-  </a>
-</p>
-
 
 1. [Socio-economic implications](https://nrf-saiab-marip.github.io/#socio-economic-implications)
 2. [Functionality](https://nrf-saiab-marip.github.io/#functionality)
@@ -59,9 +48,19 @@ Lander
 Visual access to previously unseen ecosystems
 Data management for Western Indian Ocean footage
 Innovation and development of new applications and equipment
-
     
 - [Document1](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
+
+<p align="right">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fafribruv.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+views&edge_flat=false" alt="Hits">
+  </a>
+</p>
+<p align="right">
+  <a href="https://www.repostatus.org/#active">
+    <img src="https://www.repostatus.org/badges/latest/active.svg" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed.">
+  </a>
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
