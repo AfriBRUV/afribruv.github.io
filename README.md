@@ -20,7 +20,7 @@
 
 
 ## Navigation 
-<img align="right" alt="GIF" src="/assets/img/developers.png" width="250"/>
+<img align="right" alt="GIF" src="/assets/img/developers.png"/>
 
 1. [Socio-economic implications](https://nrf-saiab-marip.github.io/#socio-economic-implications)
 2. [Functionality](https://nrf-saiab-marip.github.io/#functionality)
