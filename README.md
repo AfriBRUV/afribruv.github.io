@@ -11,11 +11,11 @@
 
 
 <div align="center">
-<a href="https://nrf-saiab-marip.github.io/">Home</a> - 
-<a href="https://nrf-saiab-marip.github.io/Data-management/">Data management</a> - 
-<a href="https://nrf-saiab-marip.github.io/Data-management/">Data analysis</a> - 
-<a href="https://nrf-saiab-marip.github.io/Data-management/">About</a> - 
-<a href="https://github.com/NRF-SAIAB-MARIP/NRF-SAIAB-MARIP.github.io/blob/8e2926f930f74cb2c400718b65b3329b13eaf4e5/README.md/">Github</a>
+<a href="https://afribruv.github.io/">Home</a> - 
+<a href="https://afribruv.github.io/about/">Data management</a> - 
+<a href="https://afribruv.github.io/about/">Data analysis</a> - 
+<a href="https://afribruv.github.io/about/">About</a> - 
+<a href="https://github.com/AfriBRUV/afribruv.github.io">Github</a>
 </div>
 
 
