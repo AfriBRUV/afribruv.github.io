@@ -40,16 +40,6 @@ Visual access to previously unseen ecosystems
 Data management for Western Indian Ocean footage
 Innovation and development of new applications and equipment
 
-Largest and most comprehensive underwater visual platform in Africa
-Remotely operated vehicles
-Baited remote underwater stereo-video systems
-Diver-operated camera systems
-Drop cameras
-Lander
-Visual access to previously unseen ecosystems
-Data management for Western Indian Ocean footage
-Innovation and development of new applications and equipment
-
 
 ## Navigation 
 
