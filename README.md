@@ -122,7 +122,8 @@ DSI, NRF-SAIAB, SMCRI
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
-<img align="right" alt="GIF" src="/assets/img/afribruv_footer.png" width="750"/>
+<img align="left" alt="GIF" src="/assets/img/afribruv_footer.png" width="750"/>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fafribruv.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+views&edge_flat=false)](https://hits.seeyoufarm.com) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 
