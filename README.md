@@ -122,6 +122,10 @@ DSI, NRF-SAIAB, SMCRI
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---
+
+https://afribruv.github.io
+
 
 <!--
 <img src="/assets/img/Footer.png" alt="Footer" title="footer" align="center"/>
