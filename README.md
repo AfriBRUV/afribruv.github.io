@@ -18,7 +18,7 @@
 <a href="https://github.com/AfriBRUV/afribruv.github.io">Github</a>
 </div>
 
-## Functionality
+## A platform for African Baited Remote Underwater Video System users
 
 <img align="right" alt="GIF" src="/assets/img/developers.png" width="250" />
 
