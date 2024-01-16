@@ -19,6 +19,9 @@
 </div>
 
 ## Functionality
+
+<img align="right" alt="GIF" src="/assets/img/developers.png" width="250" />
+
 Largest and most comprehensive underwater visual platform in Africa
 Remotely operated vehicles
 Baited remote underwater stereo-video systems
@@ -31,7 +34,6 @@ Innovation and development of new applications and equipment
 
 
 ## Navigation 
-<img align="right" alt="GIF" src="/assets/img/developers.png" width="250" />
 
 1. [Socio-economic implications](https://nrf-saiab-marip.github.io/#socio-economic-implications)
 2. [Functionality](https://nrf-saiab-marip.github.io/#functionality)
