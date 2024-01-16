@@ -8,7 +8,7 @@
     <img src="/assets/img/afribruv.png" alt="Logo" title="afribruv" align="center" height="300" />
 </a>
 -->
-<img align="right" alt="GIF" src="/assets/img/developers.png" width="300"/>
+
 
 <div align="center">
 <a href="https://nrf-saiab-marip.github.io/">Home</a> - 
@@ -18,7 +18,9 @@
 <a href="https://github.com/NRF-SAIAB-MARIP/NRF-SAIAB-MARIP.github.io/blob/8e2926f930f74cb2c400718b65b3329b13eaf4e5/README.md/">Github</a>
 </div>
 
-## Navigation
+<img align="right" alt="GIF" src="/assets/img/developers.png" width="300"/>
+
+## Navigation 
 
 
 1. [Socio-economic implications](https://nrf-saiab-marip.github.io/#socio-economic-implications)
