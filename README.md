@@ -19,6 +19,16 @@
 
 ## Navigation
 <img align="right" alt="GIF" src="/assets/img/developers.png" width="250"/>
+<p align="right">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fafribruv.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+views&edge_flat=false" alt="Hits">
+  </a>
+</p>
+<p align="right">
+  <a href="https://www.repostatus.org/#active">
+    <img src="https://www.repostatus.org/badges/latest/active.svg" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed.">
+  </a>
+</p>
 
 
 1. [Socio-economic implications](https://nrf-saiab-marip.github.io/#socio-economic-implications)
