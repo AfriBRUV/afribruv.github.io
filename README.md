@@ -20,7 +20,7 @@
 
 ## A platform for African Baited Remote Underwater Video System users
 
-<img align="right" alt="GIF" src="/assets/img/developers.png" width="250" />
+<img align="right" alt="GIF" src="/assets/img/developers_2.png" width="250" />
 
 Largest and most comprehensive underwater visual platform in Africa
 Remotely operated vehicles
