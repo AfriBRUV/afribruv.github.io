@@ -1,2 +1,5 @@
 name: AfriBRUV
 title: null
+pages:
+  markdown:
+    extra: true
