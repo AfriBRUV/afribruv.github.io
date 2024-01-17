@@ -147,9 +147,10 @@ DSI, NRF-SAIAB, SMCRI
 <img align="left" alt="GIF" src="/assets/img/afribruv_footer_2.png"/>
 
 
-<p align="center">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fafribruv.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+views&edge_flat=false)](https://hits.seeyoufarm.com) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-</p>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fafribruv.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+views&edge_flat=false)](https://hits.seeyoufarm.com) [!
+[Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
 <!--
 <img src="/assets/img/Footer.png" alt="Footer" title="footer" align="center"/>
 -->
