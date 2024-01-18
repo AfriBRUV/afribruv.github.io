@@ -22,25 +22,7 @@
 
 <img align="right" alt="GIF" src="/assets/img/developers_2.png" width="250" />
 
-Largest and most comprehensive underwater visual platform in Africa
-Remotely operated vehicles
-Baited remote underwater stereo-video systems
-Diver-operated camera systems
-Drop cameras
-Lander
-Visual access to previously unseen ecosystems
-Data management for Western Indian Ocean footage
-Innovation and development of new applications and equipment
-
-Largest and most comprehensive underwater visual platform in Africa
-Remotely operated vehicles
-Baited remote underwater stereo-video systems
-Diver-operated camera systems
-Drop cameras
-Lander
-Visual access to previously unseen ecosystems
-Data management for Western Indian Ocean footage
-Innovation and development of new applications and equipment
+Welcome to the African Baited Remote Underwater Video Research Network. We’re a community dedicated to underwater video research. Our priorities include securing funding, building capacity, improving communication, increasing publication output, and managing data. We face challenges such as funding, data sharing, and leadership. To overcome these, we’re creating an online repository for information access and improving communication of training opportunities. Join us in advancing underwater video research.
 
 
 ## Navigation 
