@@ -29,7 +29,7 @@ Welcome to the African Baited Remote Underwater Video Research Network. Our focu
 
 ## Navigation 
 
-1. [Socio-economic implications](https://nrf-saiab-marip.github.io/#socio-economic-implications)
+1. [Access]((https://afribruv.github.io/#access))
 2. [Functionality](https://nrf-saiab-marip.github.io/#functionality)
 3. [Transformation & Capacity Development](https://nrf-saiab-marip.github.io/#transformation--capacity-development)
 4. [Users](https://nrf-saiab-marip.github.io/#users)
@@ -39,7 +39,8 @@ Welcome to the African Baited Remote Underwater Video Research Network. Our focu
 
 ***
 
-## Socio-economic implications
+## Access
+
 The Blue Economy requires robust verifiable data of the subtidal environment to ensure sustainable development of the marine fisheries, oil and gas, and transport and mining sectors.
 
 - [Document1](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
