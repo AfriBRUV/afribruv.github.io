@@ -22,7 +22,7 @@
 
 <img align="right" alt="GIF" src="/assets/img/developers_2.png" width="250" />
 
-Welcome to the African Baited Remote Underwater Video Research Network. We’re a community dedicated to underwater video research. Our priorities include securing funding, building capacity, improving communication, increasing publication output, and managing data. We face challenges such as funding, data sharing, and leadership. To overcome these, we’re creating an online repository for information access and improving communication of training opportunities. Join us in advancing underwater video research.
+Welcome to the African Baited Remote Underwater Video Research Network. Our focus is on capacity building, communication enhancement, data and equipment sharing, and the support of standard operating procedures. We invite you to explore our network, resources and its contributions to African underwater video research.
 
 
 ## Navigation 
