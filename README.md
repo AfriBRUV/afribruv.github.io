@@ -29,7 +29,7 @@ Welcome to the African Baited Remote Underwater Video Research Network. Our focu
 
 ## Navigation 
 
-1. [Access]((https://afribruv.github.io/#access))
+1. [Access](https://afribruv.github.io/#access)
 2. [Functionality](https://nrf-saiab-marip.github.io/#functionality)
 3. [Transformation & Capacity Development](https://nrf-saiab-marip.github.io/#transformation--capacity-development)
 4. [Users](https://nrf-saiab-marip.github.io/#users)
