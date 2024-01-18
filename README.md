@@ -22,7 +22,9 @@
 
 <img align="right" alt="GIF" src="/assets/img/developers_2.png" width="250" />
 
+<p align="justify"> 
 Welcome to the African Baited Remote Underwater Video Research Network. Our focus is on capacity building, communication enhancement, data and equipment sharing, and the support of standard operating procedures. We invite you to explore our network, resources and its contributions to African underwater video research.
+</p>
 
 
 ## Navigation 
