@@ -45,7 +45,7 @@ The Blue Economy requires robust verifiable data of the subtidal environment to 
 
 - [Document1](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
 - [Document2](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
-- [Document3](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
+- [Document3](https://github.com/AfriBRUV/afribruv.github.io/blob/95c63abab6b1cf301523b2bfddcad01666158a4c/assets/img/LangloisGoetzeetal.2020.pdf)
 
 
 ## Functionality
