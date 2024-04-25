@@ -135,7 +135,7 @@ Over 100 students and researchers from 39 national and international organisatio
 
 
 ## Equipment inventory
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrDvhEAeNuuxH4-etqMSVqCf4PES480ynvWEyr986CPv_jZwXol3kK3MGrKJMRQgwK5lZf-tjjR7SK/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&ampchrome=false;" width="900" height="500" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrDvhEAeNuuxH4-etqMSVqCf4PES480ynvWEyr986CPv_jZwXol3kK3MGrKJMRQgwK5lZf-tjjR7SK/pubhtml?&rm=minimal&single=true&widget=false;;" width="900" height="500" frameborder="0"></iframe>
 
 ## Funders
 DSI, NRF-SAIAB, SMCRI
