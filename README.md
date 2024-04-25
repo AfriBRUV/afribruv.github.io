@@ -92,7 +92,7 @@ Over 100 students and researchers from 39 national and international organisatio
 
 # Transformation & Capacity Development
 <details>
-<summary> </summary>
+<summary> Read more </summary>
 
 # Transformation & Capacity Development
 Extensive postgraduate student use of resources
