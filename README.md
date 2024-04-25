@@ -91,8 +91,9 @@ Over 100 students and researchers from 39 national and international organisatio
 # Useful code
 
 # Transformation & Capacity Development
+
 <details>
-<summary> Read more </summary>
+<summary>Read more </summary>
 
 # Transformation & Capacity Development
 Extensive postgraduate student use of resources
@@ -105,7 +106,6 @@ Developing a transformed cohort of next-generation marine technicians
 Annual Summer School initiative
 
 ![bruvs](/assets/img/bruvs_infographic.png)
-
 
 </details>
 
