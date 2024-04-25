@@ -88,12 +88,17 @@ Over 100 students and researchers from 39 national and international organisatio
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Useful code
+# Useful code
 
 <details>
 <summary>Code a</summary>
 
 Test section
+
+# Transformation & Capacity Development
+Extensive postgraduate student use of resources
+Developing a transformed cohort of next-generation marine technicians
+Annual Summer School initiative
 
 ## Transformation & Capacity Development
 Extensive postgraduate student use of resources
