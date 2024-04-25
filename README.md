@@ -28,8 +28,6 @@
 Welcome to the African Baited Remote Underwater Video Research Network. Our focus is on capacity building, communication enhancement, data and equipment sharing, and the support of standard operating procedures. We invite you to explore our network, resources and its contributions to African underwater video research.
 </p>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfcXkjHlc05nra9X3uBoK1dx2PHfl0xHSI6fsyf9gTN88o0dg/viewform?embedded=true" width="640" height="1240" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
 ## Navigation 
 
 1. [Access to resources](https://afribruv.github.io/#access_to_resources)
@@ -125,6 +123,8 @@ Over 100 students and researchers from 39 national and international organisatio
 2. Artificial intelligence applications in footage analysis 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfcXkjHlc05nra9X3uBoK1dx2PHfl0xHSI6fsyf9gTN88o0dg/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Funders
 DSI, NRF-SAIAB, SMCRI
