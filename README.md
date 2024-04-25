@@ -9,7 +9,6 @@
 </a>
 -->
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfcXkjHlc05nra9X3uBoK1dx2PHfl0xHSI6fsyf9gTN88o0dg/viewform?embedded=true" width="640" height="1240" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 <div align="center">
@@ -29,6 +28,7 @@
 Welcome to the African Baited Remote Underwater Video Research Network. Our focus is on capacity building, communication enhancement, data and equipment sharing, and the support of standard operating procedures. We invite you to explore our network, resources and its contributions to African underwater video research.
 </p>
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfcXkjHlc05nra9X3uBoK1dx2PHfl0xHSI6fsyf9gTN88o0dg/viewform?embedded=true" width="640" height="1240" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Navigation 
 
