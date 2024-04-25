@@ -39,6 +39,10 @@ Welcome to the African Baited Remote Underwater Video Research Network. Our focu
 7. [Funders](https://nrf-saiab-marip.github.io/#funders)
 
 ***
+## Download as quick guide document
+
+[Download PDF](https://github.com/AfriBRUV/afribruv.github.io/blob/179157ba165e56c918f0d916ca3320bd01280d2c/assets/img/NRF-SAIAB-MARIP_data%20management.pdf)
+
 
 ## Access to resources
 
