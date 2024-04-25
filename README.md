@@ -92,13 +92,16 @@ Over 100 students and researchers from 39 national and international organisatio
 
 <details>
 <summary>Code a</summary>
-<pre>
-    {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-</pre>
+
+Test section
+
+## Transformation & Capacity Development
+Extensive postgraduate student use of resources
+Developing a transformed cohort of next-generation marine technicians
+Annual Summer School initiative
+
+![bruvs](/assets/img/bruvs_infographic.png)
+
 </details>
 
 <details>
