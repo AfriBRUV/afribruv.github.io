@@ -124,7 +124,7 @@ Over 100 students and researchers from 39 national and international organisatio
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfcXkjHlc05nra9X3uBoK1dx2PHfl0xHSI6fsyf9gTN88o0dg/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfcXkjHlc05nra9X3uBoK1dx2PHfl0xHSI6fsyf9gTN88o0dg/viewform?embedded=true" width="900" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Funders
 DSI, NRF-SAIAB, SMCRI
