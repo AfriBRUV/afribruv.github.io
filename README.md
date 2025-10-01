@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 
-![Mar-RIP](/assets/img/afribruv_250.png)
+![Mar-RIP](/assets/img/AfriBRUV_250-2.png)
 
 <!--
 <a href="https://aimeos.org/">
